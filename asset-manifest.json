@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/burgerbuilder.github.io/static/css/main.eed954cc.chunk.css",
+    "main.js": "/burgerbuilder.github.io/static/js/main.c682ab22.chunk.js",
+    "main.js.map": "/burgerbuilder.github.io/static/js/main.c682ab22.chunk.js.map",
+    "runtime-main.js": "/burgerbuilder.github.io/static/js/runtime-main.9ec1a084.js",
+    "runtime-main.js.map": "/burgerbuilder.github.io/static/js/runtime-main.9ec1a084.js.map",
+    "static/css/2.4659568d.chunk.css": "/burgerbuilder.github.io/static/css/2.4659568d.chunk.css",
+    "static/js/2.ef44d2ed.chunk.js": "/burgerbuilder.github.io/static/js/2.ef44d2ed.chunk.js",
+    "static/js/2.ef44d2ed.chunk.js.map": "/burgerbuilder.github.io/static/js/2.ef44d2ed.chunk.js.map",
+    "index.html": "/burgerbuilder.github.io/index.html",
+    "static/css/2.4659568d.chunk.css.map": "/burgerbuilder.github.io/static/css/2.4659568d.chunk.css.map",
+    "static/css/main.eed954cc.chunk.css.map": "/burgerbuilder.github.io/static/css/main.eed954cc.chunk.css.map",
+    "static/js/2.ef44d2ed.chunk.js.LICENSE.txt": "/burgerbuilder.github.io/static/js/2.ef44d2ed.chunk.js.LICENSE.txt",
+    "static/media/cheese.6bf4843b.png": "/burgerbuilder.github.io/static/media/cheese.6bf4843b.png",
+    "static/media/logo.f50b8f2e.png": "/burgerbuilder.github.io/static/media/logo.f50b8f2e.png",
+    "static/media/sauce.361510d9.PNG": "/burgerbuilder.github.io/static/media/sauce.361510d9.PNG",
+    "static/media/top.efd53d96.png": "/burgerbuilder.github.io/static/media/top.efd53d96.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ec1a084.js",
+    "static/css/2.4659568d.chunk.css",
+    "static/js/2.ef44d2ed.chunk.js",
+    "static/css/main.eed954cc.chunk.css",
+    "static/js/main.c682ab22.chunk.js"
+  ]
+}
