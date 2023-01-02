@@ -43,7 +43,7 @@ export const orderLoadFailed = () => {
 
 export const fetchOrders = (token, userId) => dispatch => {
 
-    let url = "https://immense-journey-20805.herokuapp.com";
+    let url = "https://burgerbuilderbackend.onrender.com";
    
     axios.get( `${url}/orders`, { headers: { "Authorization": `Bearer ${token}` } })
         .then(response => {
