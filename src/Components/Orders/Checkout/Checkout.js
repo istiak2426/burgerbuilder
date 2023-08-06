@@ -59,7 +59,7 @@ class Checkout extends Component {
             userId: this.props.userId,
         }
 
-        let url = "https://immense-journey-20805.herokuapp.com";
+        let url = "https://burgerbuilder-api.onrender.com";
 
         axios.post(`${url}/orders`, order, {
             headers: {
