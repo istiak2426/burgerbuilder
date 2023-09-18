@@ -40,8 +40,6 @@ export const auth = ( email, password, mode) => dispatch => {
     }
 
 
-    console.log(process.env.REACT_APP_BACKEND_URL)
-
     let url= "https://burgerbuilder-api.onrender.com";
     let authUrl = null;
     if (mode === "Sign Up") {
