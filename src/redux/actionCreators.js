@@ -43,7 +43,7 @@ export const orderLoadFailed = () => {
 
 export const fetchOrders = (token, userId) => dispatch => {
 
-    let url = "https://burgerbuilder-api.onrender.com";
+    let url = "https://burger-builder-api-qrru.onrender.com";
    
     axios.get( `${url}/orders`, { headers: { "Authorization": `Bearer ${token}` } })
         .then(response => {
