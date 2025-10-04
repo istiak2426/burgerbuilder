@@ -59,7 +59,7 @@ class Checkout extends Component {
             userId: this.props.userId,
         }
 
-        let url = "https://burger-builder-api-qrru.onrender.com";
+        let url = "https://burger-builder-api-new.onrender.com";
 
         axios.post(`${url}/orders`, order, {
             headers: {
