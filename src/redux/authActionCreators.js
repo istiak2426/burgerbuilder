@@ -40,7 +40,7 @@ export const auth = ( email, password, mode) => dispatch => {
     }
 
 
-    let url= "https://burgerbuilder-api.onrender.com";
+    let url= "https://burger-builder-api-qrru.onrender.com";
     let authUrl = null;
     if (mode === "Sign Up") {
         authUrl = `${url}/user`
